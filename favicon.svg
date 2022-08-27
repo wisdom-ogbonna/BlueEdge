@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2100" height="1500" viewBox="0 0 2100 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #003663;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #0c0b0a;
+      }
+
+      .cls-4, .cls-5, .cls-9 {
+        fill: #b84709;
+      }
+
+      .cls-4 {
+        filter: url(#filter-2);
+      }
+
+      .cls-5 {
+        filter: url(#filter-3);
+      }
+
+      .cls-11, .cls-15, .cls-6 {
+        fill: #285173;
+      }
+
+      .cls-14, .cls-7 {
+        fill: #2e2a28;
+      }
+
+      .cls-16, .cls-8 {
+        fill: #f55e0d;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 100px;
+      }
+
+      .cls-10 {
+        filter: url(#filter-5);
+      }
+
+      .cls-11 {
+        font-family: "Myriad Pro";
+      }
+
+      .cls-12 {
+        fill: #c84d0a;
+      }
+
+      .cls-13 {
+        fill: #45413f;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.974" dy="6.932" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.61"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="466" y="837" width="245" height="241" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.974" dy="6.932" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.61"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="466" y="442" width="234" height="248" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.974" dy="6.932" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.61"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="977" y="705" width="625" height="85" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.974" dy="6.932" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.97"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <path class="cls-2" d="M256.419,456.785l122.694,59.031v474.8L256.419,1037V456.785Z"/>
+    <path class="cls-2" d="M704,179l121,67L368.835,530.292l-112.857-74.36Z"/>
+  </g>
+  <path class="cls-3" d="M1150,444l-115,73L711.107,324.124,830,249Z"/>
+  <path class="cls-4" d="M471.885,924.777L474,837,703,970l-2,94Z"/>
+  <path class="cls-5" d="M471,676l3.376-97.267L689,442l2.218,97.39Z"/>
+  <path class="cls-6" d="M444,749l196-93V849L444,765V749Z"/>
+  <path class="cls-7" d="M1148,443l-1,138L738,809l-3-142Z"/>
+  <path class="cls-8" d="M262,1042l123-50,323,201,3,133Z"/>
+  <g class="cls-1">
+    <path class="cls-8" d="M1146,926l4,137L711,1327l-1-141Z"/>
+    <path class="cls-9" d="M1145,930l-116,68L749,815l114-65Z"/>
+    <text id="BLUE_EDGE" data-name="BLUE EDGE" class="cls-10" x="975.001" y="774"><tspan class="cls-11">B<tspan class="cls-12">L<tspan class="cls-13">U<tspan class="cls-14">E</tspan></tspan></tspan></tspan> <tspan class="cls-12">E<tspan class="cls-15">D<tspan class="cls-16">G<tspan class="cls-13">E</tspan></tspan></tspan></tspan></text>
+  </g>
+</svg>
